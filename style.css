@@ -78,3 +78,37 @@ body{
     align-items: center;
 
 }
+.cabeçario-v{
+    background-color: #adbb98;
+    color: #FFFCFA;
+
+}
+.cabeçario-ro{
+    background-color: #a48199;
+    color: #FFFCFA;
+
+}
+.cabeçario-ra{
+    background-color: #e0a7ad;
+    color: #FFFCFA
+}
+.cabeçario-am{
+    background-color: #f9d59b;
+    color: #FFFCFA;
+}
+.cabeçario-az{
+    background-color: #7ea5cb;
+    color: #FFFCFA;
+
+}
+.cabeçario-ve{
+    background-color: #bf2c4f;
+    color: #FFFCFA;
+}
+.imagem-eu{
+    justify-content: center;
+    align-items: center;
+}
+.lala-lele{
+    width: 25%;
+}
